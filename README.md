@@ -2,7 +2,7 @@
 
 Quantum Algorithms for Real Space simulation of Electrons and Nuclei
 
-This repo contains algorithm demos which uses [pyQuEST](https://github.com/rrmeister/pyQuEST) for quantum simulations of particles in real-space grids. It contains the essential elements which went into the numerical simulations reported in [this work](https://arxiv.org/abs/2202.05864).
+This repo contains algorithm demos which uses [pyQuEST](https://github.com/rrmeister/pyQuEST) for quantum simulation of particles in real-space grids. It contains the essential elements which went into the numerical simulations reported in [this work](https://arxiv.org/abs/2202.05864).
 
 ## Requirements
 - pyQuEST
