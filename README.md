@@ -20,4 +20,15 @@ More detailed instructions can be found in the first notebook
 
 4. Use `pyquest` environment to run notebooks in this repo.
 
+## Examples
+
+[Getting Started](https://github.com/QARSEN-QC/qarsen_lite/blob/main/Getting_started.ipynb) -
+Basic methods of defining wavepackets in a grid, using `PhaseFunc` from `pyquest`, extracting phase.
+
+[Custom Potential](https://github.com/QARSEN-QC/qarsen_lite/blob/main/Custom_potentials.ipynb) -
+Time propagation of quantum wavepackets under a custom potential, using `pyQuEST` methods.
+
+
+
+
 
