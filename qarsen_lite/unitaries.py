@@ -50,7 +50,7 @@ def gen_Quadratic_PhaseFunc(
 
 
 def gen_Coulomb_PhaseFunc(
-    target_regs: List(List),
+    target_regs,
     dx: float,
     coeff: float,
     xc: List,
@@ -76,7 +76,7 @@ def gen_Coulomb_PhaseFunc(
 
 
 def gen_pairwise_Coulomb_PhaseFunc(
-    target_regs: List(List),
+    target_regs,
     coeff: float,
     dx: float,
     override
