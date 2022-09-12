@@ -78,16 +78,14 @@ def gen_Coulomb_PhaseFunc(
 def gen_pairwise_Coulomb_PhaseFunc(
     target_regs,
     coeff: float,
-    dx: float,
-    override
+    dx: float
     ) -> PhaseFunc:
     """ Pairwise Coulombic interaction between particle registers
     """
     scale = coeff/dx
     PhaseFunc(targets=target_regs,
               func_type="scaled_inverse_distance",
-              scaling=scale,
-              divergence_override=override
+              scaling=scale
               )
     
 
