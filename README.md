@@ -28,6 +28,8 @@ Basic methods of defining wavepackets in a grid, using `PhaseFunc` from `pyquest
 [Custom Potential](https://github.com/QARSEN-QC/qarsen_lite/blob/main/Custom_potentials.ipynb) -
 Time propagation of quantum wavepackets under a custom potential, using `pyQuEST` methods.
 
+[Ground state preparation](https://github.com/QARSEN-QC/qarsen_lite/blob/main/Ground_state_preparation.ipynb) -
+Driving a loaded wavepacket towards the ground state subject to the interaction potentials, using `pyQuEST` methods to implement PITE.
 
 
 
